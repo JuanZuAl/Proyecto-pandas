@@ -1,0 +1,2 @@
+por que el iloc no es incluyente con el ultimo numero y como los "V00..." ya son index este no lo toma commo columna y se los salta
+por eso ya no son 6 columnas si no que 5 por eso devuelve el total de la venta

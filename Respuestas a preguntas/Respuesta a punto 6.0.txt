@@ -1,0 +1,3 @@
+Efectivamente las filas son las mismas en ventas.csv y en merge.csv y las columnas son 14 en merge mientras que
+en ventas.csv y clientes.csv con 15 y esto se debe a que al realizar el merge con una columna en comun esta no toma las 2 columnas
+iguales y solo deja la primera que cumpla con las coincidencias.  

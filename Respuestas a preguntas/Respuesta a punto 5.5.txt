@@ -1,0 +1,3 @@
+Realmente el unico problema que evidencie fue el de que las dos tablas apenas presentaban datos nulos, entonces al momento de 
+ejecuttar el codigo el resulto era muy parecido por ende me toco busacar en los los csv si realmente excistiecen datos nulos,
+se que la  busqueda manual no es eficiente pero en este caso por el volumen  de datos esto fue facíl
